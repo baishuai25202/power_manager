@@ -12,5 +12,6 @@ import java.util.Map;
  * @Version: 1.0
  */
 public interface DeptMapper {
+    List<Map<String,Object>> getDeptCdfsdfsdf();
     List<Map<String,Object>> getDeptAfgvredgrefg();
 }
